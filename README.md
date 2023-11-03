@@ -4,7 +4,8 @@
 
 * Comando git push
 * Comando git pull
-
+* Comando git fetch
+  
 <!-- * Comando git restore -->
 
 <!-- git restore README.md (desfaz alteração) 
