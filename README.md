@@ -2,7 +2,9 @@
 
 ## Alterações no GIT
 
-* Comando git restore
+* Comando git push
+
+<!-- * Comando git restore -->
 
 <!-- git restore README.md (desfaz alteração) 
 git restore --staged README.md (Volta para situação antes do add)-->
