@@ -3,6 +3,7 @@
 ## Alterações no GIT
 
 * Comando git push
+* Comando git pull
 
 <!-- * Comando git restore -->
 
